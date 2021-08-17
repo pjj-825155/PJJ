@@ -20,4 +20,18 @@
     
 ### The Site I Saved
 这里保存了我将来可能会用到的网址
-* 这是一个可以[制作炫酷颜料动画的网站](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+* 写文章/论文可能用到的网站
+  * 这是一个用于论文查重的网站 [https://paperyy.com.cn/](https://paperyy.com.cn/)
+  * 这是中国知网的网站 [https://www.cnki.net/](https://www.cnki.net/)
+
+* 制作PPT可能用到的网站
+  * 这是一个制作PPT模板的网站 [https://ixuanmo.com/](https://ixuanmo.com/)
+  * 这是一个可以制作炫酷颜料动画的网站 [https://paveldogreat.github.io/WebGL-Fluid-Simulation/](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+
+* 常用工具网站
+  * 这是一个标注日语发音的网站 [http://www.kawa.net/works/ajax/romanize/japanese.html](http://www.kawa.net/works/ajax/romanize/japanese.html)
+
+### Commonly Used Gadgets
+这里保存了我将来可能会用到的小工具
+* 这是一个可以再屏幕上画画的软件 [鼠标画](https://github.com/pjj-825155/PJJ/blob/8fc1de8e26931429c61c3fed350d7bc7d3a09251/%E9%BC%A0%E6%A0%87%E7%94%BB/%E9%BC%A0%E6%A0%87%E7%94%BB.exe)
+  * 可以调整透明度/画笔粗细
