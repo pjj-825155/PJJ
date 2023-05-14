@@ -1,3 +1,5 @@
+# Welcome to My GitHub Pages
+这是我的第一个仓库
 ## Welcome to My GitHub Pages
 
 你可以通过访问[我的主页](https://github.com/pjj-825155/)来查看我的仓库
@@ -11,13 +13,21 @@
 * 这是我[大学课程作业以及课程设计的仓库](https://github.com/pjj-825155/c-program/)
   * 我的第一个功能较为齐全的应用程序 [数据库查询](https://github.com/pjj-825155/c-program/tree/476fd1e7f32ab74f37e2951e031b77fffff4d80d/C%E8%AF%AD%E8%A8%80project)，它的演示网址 [用C语言实现基于Navicat Premium链接mysql数据库](https://www.bilibili.com/video/BV174411K7qG)
 
-* 这是我参加湖北警官学院第十三届李昌钰杯，使用PHP语言和Python语言编写的[可视化显示人物关系](https://github.com/pjj-825155/visual-program)的仓库
+* 这是我参加湖北警官学院第十三届李昌钰杯，同时也是参加大学生创业的项目，它使用PHP语言和Python语言编写[可视化显示人物关系](https://github.com/pjj-825155/visual-program)
   * 它的演示网址[数据库人物关系转为树状图，PYTHON和PHP产生的美妙组合](https://www.bilibili.com/video/BV157411e7rm)
+  * 它的进阶版本[关于上次数据可视化的亿点优化](https://www.bilibili.com/video/BV1zz411B7fK))
 
 * 这是我大学自学[Python程序的仓库](https://github.com/pjj-825155/python-program)，至今仍在尝试尽我所能去丰富它
   * 这是我在暑假自制的第一个小游戏 [东方打飞机](https://github.com/pjj-825155/python-program/tree/master/%E4%B8%9C%E6%96%B9)
    - 它的演示网址[自制的东方打飞机，自制的录频软件，python牛逼](https://www.bilibili.com/video/BV1GE411o7nG)
-    
+  * 这是我在学习opencv时的项目，用最笨的方式识别文字（汉字/英文）
+   - 它的演示网址[用python识别文字](https://www.bilibili.com/video/BV1aE41177et)（英文+数字）
+   - 它的演示网址[用最笨的方式识别中文](https://www.bilibili.com/video/BV1u7411d7eC)（汉字）
+  * 这是大学同学叫我帮忙制作的项目，一个抢答器，但至今还没有在大场面下测试过
+   - 它的演示网址[多人抢答器](https://www.bilibili.com/video/BV1h5411M7vt)
+  * 这是一个迷宫+弹球的游戏，是我对[Pymunk](https://pypi.org/project/pymunk/)的一次摸索，不过我对我的迷宫算法挺满意的
+   - 它的演示网址[来玩弹球嘛，走迷宫的那种](https://www.bilibili.com/video/BV1GD4y1q7pj)
+
 ### The Site I Saved
 这里保存了我将来可能会用到的网址
 * 写文章/论文可能用到的网站
